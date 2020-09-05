@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3def6a4f-01cc-42a5-ac1f-182fa7ce0e21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gyfww5s9Yf13ih9g5WSaR045Oc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3def6a4f-01cc-42a5-ac1f-182fa7ce0e21" name="Default Changelist" comment="" />
+      <created>1599091995417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599091995417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Notifications" timestamp="1599092455956">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="3" key="#Notifications/0.0.1280.689@0.0.1280.689" timestamp="1599092455956" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599093179283">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1599093179283" />
+    <state x="321" y="73" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599093581780">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="321" y="73" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689@0.0.1280.689" timestamp="1599093581780" />
+    <state x="2133" y="0" key="SettingsEditor" timestamp="1599341540428">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2133" y="0" key="SettingsEditor/0.0.1280.689/1920.0.1920.1050@1920.0.1920.1050" timestamp="1599341540428" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1599092505920" />
+    <state x="2620" y="148" key="com.intellij.ide.util.TipDialog" timestamp="1599341476383">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2620" y="148" key="com.intellij.ide.util.TipDialog/0.0.1280.689/1920.0.1920.1050@1920.0.1920.1050" timestamp="1599341476383" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1599093593875">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1599093593875" />
+  </component>
+</project>
