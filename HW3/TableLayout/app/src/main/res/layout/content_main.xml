@@ -9,39 +9,103 @@
 
     <EditText
         android:id="@+id/strAndroidVersion"
-        android:layout_width="wrap_content"
+        android:layout_width="240dp"
         android:layout_height="60dp"
-        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
         android:inputType="textPersonName"
-        android:paddingBottom="10dp"
-        android:text="Enter Android Version"
+        android:hint="Enter Android Version"
         app:layout_constraintBottom_toTopOf="@+id/strCodeName"
-        tools:layout_editor_absoluteX="21dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
 
     <EditText
         android:id="@+id/strCodeName"
-        android:layout_width="wrap_content"
+        android:layout_width="240dp"
         android:layout_height="60dp"
-        android:ems="10"
+        android:layout_marginBottom="10dp"
         android:inputType="textPersonName"
-        android:paddingBottom="10dp"
-        android:text="Enter Code Name"
+        android:hint="Enter Code Name"
         app:layout_constraintBottom_toTopOf="@+id/btnAdd"
-        tools:layout_editor_absoluteX="21dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/strAndroidVersion" />
 
     <Button
         android:id="@+id/btnAdd"
-        android:layout_width="368dp"
-        android:layout_height="40dp"
-        android:paddingBottom="10dp"
+        android:layout_width="240dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
         android:text="Add"
-        app:layout_constraintBottom_toTopOf="@+id/tbContent"
-        tools:layout_editor_absoluteX="21dp" />
+        app:layout_constraintBottom_toTopOf="@+id/tableLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/strCodeName" />
 
-    <TableRow
-        android:id="@+id/tbContent"
-        android:layout_width="409dp"
-        android:layout_height="543dp"
-        tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="185dp" />
+    <TableLayout
+        android:id="@+id/tlContent"
+        android:layout_width="402dp"
+        android:layout_height="465dp"
+        android:layout_marginTop="10dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnAdd" >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stretchColumns="1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Version" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Code Name" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Android 9.0"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:text="Pie"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Android 8.0"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:text="Oreo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </TableRow>
+
+    </TableLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
