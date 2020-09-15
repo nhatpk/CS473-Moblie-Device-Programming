@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">CV App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="my_name"> NHAT Pham </string>
+    <string name="job_title"> Software Engineer </string>
+
+    <!-- About me -->
+    <string name="master_school"> Maharishi International University </string>
+    <string name="master_skill"> Master Degree of Computer Science </string>
+    <string name="bachelor_school"> University of Da Nang </string>
+    <string name="bachelor_skill">  Bachelor Degree of Computer Science </string>
+    <string name="about_me"> </string>
+
+    <!-- Work Experience -->
+    <string name="company_1"> PrioritySoftware Inc, </string>
+    <string name="position_1"> Software Engineer </string>
+    <string name="project_title_1"> FBS </string>
+    <string name="desc_project_1"> SaaS solution for lab/experiment-activities-management </string>
+
+    <string name="company_2">  Getz Co, Ltd</string>
+    <string name="position_2"> Senior Full Stack Developer </string>
+    <string name="project_title_2"> Getz Platform </string>
+    <string name="desc_project_2"> SaaS solution for F&B businessmen </string>
+
+    <string name="company_3"> DigitalCraft </string>
+    <string name="position_3"> Web Developer </string>
+    <string name="project_title_3"> Web applications </string>
+    <string name="desc_project_3"> Dynamic web applications </string>
+
+    <!-- Contact -->
+    <string name="phone"> +1 (714) 209-3909 </string>
+    <string name="email"> nhat.phamkhac@gmail.com </string>
+    <string name="website"> linkedin.com/in/nhat-pham </string>
+    <string name="facebook_profile">  </string>
+
+    <!-- Home Page -->
+    <string name="honor_award"> Honor &amp; Award </string>
+    <string name="honor_title"> ICCR Scholarship </string>
+    <string name="honor_desc"> Received scholarships from Indian Council for Cultural Relations </string>
+
+    <string name="experience"> Work Experience </string>
+    <string name="experience_year"> Professional 5 years </string>
+    <string name="experience_skill"> Java | PHP | Laravel | Spring boot | Angular7,8 | HTML5 | CSS3 | Bootstrap | MySQL | Node JS | jQuery | REST API </string>
+
+    <string name="blog"> Blog </string>
+    <string name="blog_title"> My Personal Blog </string>
+    <string name="blog_desc"> www.lukpheakdey.blogspot.com </string>
+
+    <string name="strength"> Strengths </string>
+    <string name="strength_title"> Personal Strength </string>
+    <string name="strength_desc"> I am a fast learner and solve a problem, passion person, flexible person to work in many different business domains as my previous experience has been working in healthcare, accounting, and stock product service.
+ </string>
+
+    <string name="personal">  Contact </string>
+    <string name="personal_title"> Personal Info </string>
+    <string name="personal_desc"> +1 (703) 474-6127 | luk.pheakdey@gmail.com </string>
+
+
+
+
+</resources>

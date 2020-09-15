@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3eeb2c7-a3dc-4fdd-ba05-74aad86b9547" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hWq8tpVRh2B96arR5zrCu07ZU4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Andy\Workplace\Kotlin-Workplace\CS473 Moblie Device Programming\HW6\CurriculumVitaeApp\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Andy/Workplace/Kotlin-Workplace/CS473 Moblie Device Programming/HW6" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3eeb2c7-a3dc-4fdd-ba05-74aad86b9547" name="Default Changelist" comment="" />
+      <created>1600137039138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600137039138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="373" y="0" key="#CVApp" timestamp="1600138423389">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="373" y="0" key="#CVApp/0.0.1280.689@0.0.1280.689" timestamp="1600138423389" />
+    <state x="85" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600138555486">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="85" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1600138555486" />
+    <state x="371" y="128" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600138554114">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="128" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.689@0.0.1280.689" timestamp="1600138554114" />
+    <state x="365" y="106" key="EnvironmentVariablesDialog" timestamp="1600138494754">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="365" y="106" key="EnvironmentVariablesDialog/0.0.1280.689@0.0.1280.689" timestamp="1600138494754" />
+    <state x="410" y="99" key="FileChooserDialogImpl" timestamp="1600138539861">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="410" y="99" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1600138539861" />
+    <state width="629" height="166" key="GridCell.Tab.0.bottom" timestamp="1600138619365">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="629" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1600138619365" />
+    <state width="629" height="166" key="GridCell.Tab.0.center" timestamp="1600138619365">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="629" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1600138619365" />
+    <state width="629" height="166" key="GridCell.Tab.0.left" timestamp="1600138619365">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="629" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1600138619365" />
+    <state width="629" height="166" key="GridCell.Tab.0.right" timestamp="1600138619365">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="629" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1600138619365" />
+    <state x="298" y="153" key="run.anything.popup" timestamp="1600138342167">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="298" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1600138342167" />
+  </component>
+</project>
